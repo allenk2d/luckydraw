@@ -1,2 +1,2 @@
-# luckydraw
-尾牙春酒抽獎程式
+# lucky_draw
+lucky draw for 2019 kk spring party
