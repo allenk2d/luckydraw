@@ -23,7 +23,7 @@
 
 .lucky-man {
   background-image: url('../src/kkday_logo.png');
-  background-size: contain;
+  background-size: 80%;
   background-repeat: no-repeat;
   background-position: center;
   background-color: #fff !important;
@@ -41,6 +41,7 @@
 .text-area-layout {
   position: relative;
   height: 450px;
+  margin-top: 15px;
 }
 
 textarea.form-control {
